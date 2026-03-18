@@ -1,0 +1,38 @@
+{
+  "submitted": [
+    "https://www.landroverrichfield.com",
+    "https://www.coonrapidscdjr.com",
+    "https://www.parkjeepchrysler.com",
+    "https://www.applecdjr.com",
+    "http://www.barnettchryslerjeep.com",
+    "https://www.morriesforestlakechryslerdodgejeepram.com",
+    "https://www.jaguarlandroverclassic.com",
+    "https://www.bloomingtonchryslerjeep.net",
+    "https://www.walsercjd.com",
+    "https://www.lutherbrookdalechryslerjeep.net",
+    "https://www.searsimports.com",
+    "https://www.motorwerksbmw.com",
+    "https://www.freewayford.net",
+    "https://www.rosevillemidwayford.com",
+    "https://www.newbrightonford.com",
+    "https://www.landroverminneapolis.com",
+    "http://www.topgearmn.com",
+    "https://www.waconiadodgechryslerjeep.com",
+    "https://www.ryancdjrofmonticello.com",
+    "https://www.cornerstoneauto.com",
+    "https://saintpaul.furymotors.com",
+    "https://www.housechrysler.com",
+    "https://stillwater.furymotors.com",
+    "https://www.hastingschryslercenter.com"
+  ],
+  "failed": [
+    "https://www.jaguarlandroverminneapolis.com",
+    "https://www.jeffbelzerrosevillecdjr.com"
+  ],
+  "skipped": [
+    "https://www.mercedesbenzofstpaul.com"
+  ],
+  "tested": [
+    "https://www.landroverminneapolis.com"
+  ]
+}
